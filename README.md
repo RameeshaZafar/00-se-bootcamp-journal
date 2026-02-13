@@ -5,7 +5,7 @@ Documenting my  Data Analyst journey | Python | SQL | Power BI
 
 **Start Date:** February 13, 2026  
 **Target Job:** Junior Data Analyst  
-**Location:** [Your City], Pakistan  
+**Location:** Islamabad, Pakistan  
 
 ## Week-by-Week Progress
 
